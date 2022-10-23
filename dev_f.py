@@ -1,4 +1,4 @@
 print('aaaa')
 print('bbbb')
 print('cccc')
-print('bca')
+print('abc')
